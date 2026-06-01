@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="wzsx.homes Banner" src="wzsx.homes" />
+  <img width="1200" height="475" alt="wzsx.homes Banner" src="./public/banner.png" />
 </div>
 
 # wzsx.homes
