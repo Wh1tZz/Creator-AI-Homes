@@ -2,9 +2,9 @@
   <img width="1200" height="475" alt="wzsx.homes Banner" src="./public/banner.png" />
 </div>
 
-# wzsx.homes
+# Creator-AI-Homes
 
-**wzsx.homes** 是一个早期阶段的开源个人 AI / 自媒体知识主页项目，面向独立创作者、AI 工具分享者、内容创作者和个人品牌建设者。
+**Creator-AI-Homes** 是一个早期阶段的开源个人 AI / 自媒体知识主页项目，面向独立创作者、AI 工具分享者、内容创作者和个人品牌建设者。
 
 这个项目最初是我的个人网站，但我正在把它逐步改造成一个可复用的开源网站模板，帮助更多创作者快速搭建自己的个人主页、AI 内容展示页、项目作品集和部署流程。
 
@@ -14,7 +14,7 @@
 
 ## 项目介绍
 
-wzsx.homes 是一个基于 TypeScript + Vite 构建的网站项目，适合用来搭建简洁、可定制、易部署的个人网站。
+Creator-AI-Homes 是一个基于 TypeScript + Vite 构建的网站项目，适合用来搭建简洁、可定制、易部署的个人网站。
 
 它可以作为：
 
@@ -211,7 +211,7 @@ npm run dev
 
 ## 许可证
 
-本项本项目基于 MIT License 开源。
+本项目基于 MIT License 开源。
 
 你可以自由使用、修改、分发和二次开发本项目，但需要保留原始版权声明。
 
